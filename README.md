@@ -34,5 +34,8 @@ $ python manage.py makemigrations
 $ python manage.py runserver
 
 # Screenshots
-![](./static/01.png)
+![](static/02.png)
+
+
+![](static/01.png)
 
