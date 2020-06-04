@@ -4,3 +4,7 @@ this django project supports CRUD
 
 The requirements file lists all the libraries used
 
+# Installing
+
+pip install -r requirements.txt
+
