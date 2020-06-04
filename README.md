@@ -1,1 +1,5 @@
-"# simple-django-todo-01" 
+simple-django-todo-01
+
+this django project supports CRUD
+
+
